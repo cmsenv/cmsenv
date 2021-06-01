@@ -205,7 +205,7 @@ treebeard==0.1.1
 typing==3.6.4
 tzlocal==1.5.1
 Unidecode==0.4.21
-urllib3==1.22
+urllib3==1.26.5
 URLObject==2.4.3
 virtualenv==15.1.0
 virtualenvwrapper-win==1.2.4
