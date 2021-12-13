@@ -125,7 +125,7 @@ jupyter-core==4.4.0
 kombu==3.0.37
 Logbook==1.2.1
 lru-dict==1.1.6
-lxml==4.1.1
+lxml==4.6.5
 Mako==1.0.7
 MarkupSafe==1.0
 matplotlib==2.1.2
