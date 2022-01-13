@@ -36,7 +36,7 @@ django-appdata==0.2.0
 django-autoadmin==1.1.1
 django-celery==3.2.1
 django-classy-tags==0.8.0
-django-cms==3.5.0
+django-cms==3.5.4
 django-colorful==1.2
 django-compressor==2.1
 django-cors-headers==1.2.2
