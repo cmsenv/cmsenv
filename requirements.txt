@@ -106,7 +106,7 @@ furl==1.0.0
 fusepy==2.0.4
 future==0.16.0
 graphviz==0.8
-html5lib==0.9999999
+html5lib==0.999999999
 httplib2==0.10.3
 idna==2.6
 intervaltree==2.1.0
